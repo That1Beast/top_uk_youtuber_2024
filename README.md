@@ -1,4 +1,4 @@
-# DATA PORTFOLIO PROJECT
+# BUSINESS NEED STATEMENT
 
 Hello everyone, sharing you the details of my project from which I managed to get insights necessary for marketing department of our company
 
